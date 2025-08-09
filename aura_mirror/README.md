@@ -41,33 +41,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](screenshots/ss1.jpeg)
+![Screenshot1](ss1.jpeg)
 Mirror complementing first person.
 
-![Screenshot2](screenshots/ss2.jpeg)
+![Screenshot2](ss2.jpeg)
 Mirror complementing second person.
 
-![Screenshot3](screenshots/ss3.jpeg)
+![Screenshot3](ss3.jpeg)
 Mirror complementing two persons.
-
-# Diagrams
-+------------------+
-|  User Stands In  |
-|   Front of Mirror|
-+--------+---------+
-         |
-         v
-+------------------+
-|  Camera Captures |
-|   Image/Video    |
-+--------+---------+
-         |
-         v
-+------------------+       
-|  gives compliment |
-|  about ourselves  |    
-+--------+---------+       
-
 
 
 ### Project Demo
@@ -76,8 +57,8 @@ https://drive.google.com/file/d/16gefk4SigfNnMTQHE_9AYaNsKH4uDBfj/view?usp=shari
 Sample demostration of how the app works.
 
 ## Team Contributions
-- Muhammed Thanveer CN: coding
-- Prethyush Babu: installation and setups
+- Muhammed Thanveer CN: Coding.
+- Prethyush Babu: installation ,setups and documentation.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
